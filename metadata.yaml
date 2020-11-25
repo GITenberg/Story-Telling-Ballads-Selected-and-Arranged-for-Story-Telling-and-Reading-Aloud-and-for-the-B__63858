@@ -1,5 +1,8 @@
 _repo: Story-Telling-Ballads-Selected-and-Arranged-for-Story-Telling-and-Reading-Aloud-and-for-the-B__63858
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63858-h/images/cover.jpg
 creator:
   author:
     agent_name: Olcott, Frances Jenkins
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/198
     wikipedia: https://en.wikipedia.org/wiki/Frances_Jenkins_Olcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63858#Story-Telling-Ballads-Selected-and-Arranged-for-Story-Telling-and-Reading-Aloud-and-for-the-B_
 gutenberg_issued: '2020-11-23'
 gutenberg_type: Text
 identifiers:
